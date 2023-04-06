@@ -1,9 +1,8 @@
 # Kita-Ikuyo
 
-
 ![maxresdefault](https://user-images.githubusercontent.com/72684393/230313253-db85138d-97e4-4218-8544-6c05d5912afa.jpg)
 
-_(키땅~~~~~)_
+_(키땅~~~~)_
 
 ## Reminder
 This is just a joke project. You should not see this for something big, if you are, you're wrong lol.
@@ -31,7 +30,12 @@ This project is on poor state, please report bugs, or pull request 'em.
 
 In Command line:
 ```cmd
-<PATH>\Kita Ikuyo.exe
+Kita-Ikuyo.exe
+```
+
+In PowerShell:
+```shell
+./Kita-Ikuyo.exe
 ```
 
 The In-Program GUI will appear. just do what it requires.
